@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../../programy/liczWyrazy/.idea/liczWyrazy.iml" filepath="$PROJECT_DIR$/../../../../programy/liczWyrazy/.idea/liczWyrazy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../programy/countWords/.idea/liczWyrazy.iml" filepath="$PROJECT_DIR$/../../../../programy/countWords/.idea/liczWyrazy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/.idea/pythonProject2.iml" />
     </modules>
   </component>
