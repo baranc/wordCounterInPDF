@@ -7,7 +7,9 @@ filename = input()
 
 # uzyskaj ścieżkę do katalogu, w którym znajduje się skrypt Python
 script_dir = os.path.dirname(os.path.abspath(__file__))
-print("sciezka skryptu", script_dir)
+print("podaj litere dysku do przeszukania")
+disk = input().upper()
+disk += ":\\"
 for root, dirs, files in os.walk("D:\\"):
     if filename in files:
         pdf_path = os.path.join(root, filename)
